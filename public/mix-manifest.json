@@ -1,0 +1,16 @@
+{
+    "/js/laravel.app.js": "/js/laravel.app.js",
+    "/js/codebase.app.js": "/js/codebase.app.js",
+    "/js/pages/tables_datatables.js": "/js/pages/tables_datatables.js",
+    "/js/pages/db_dark.js": "/js/pages/db_dark.js",
+    "/js/pages/op_auth_signin.js": "/js/pages/op_auth_signin.js",
+    "/js/pages/op_auth_signup.js": "/js/pages/op_auth_signup.js",
+    "/js/pages/op_auth_reminder.js": "/js/pages/op_auth_reminder.js",
+    "/js/pages/op_auth_lock.js": "/js/pages/op_auth_lock.js",
+    "/css/themes/flat.css": "/css/themes/flat.css",
+    "/css/themes/elegance.css": "/css/themes/elegance.css",
+    "/css/themes/earth.css": "/css/themes/earth.css",
+    "/css/themes/corporate.css": "/css/themes/corporate.css",
+    "/css/codebase.css": "/css/codebase.css",
+    "/css/themes/pulse.css": "/css/themes/pulse.css"
+}

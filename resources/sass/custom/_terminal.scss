@@ -1,0 +1,22 @@
+.terminal {
+    width: 100%;
+    padding: 4px;
+    color: #333;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font-weight: 200;
+    font-size: 14px;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.terminal > div {
+    display: block;
+    margin: auto;
+}
